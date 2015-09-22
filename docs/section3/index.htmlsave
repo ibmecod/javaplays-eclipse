@@ -1,0 +1,44 @@
+<html>
+<head>
+<style>
+.screenshot {
+  margin: 1em;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+}
+</style>
+</head>
+<body>
+<h1>Enable Remote Development Mode in Eclipse</h1>
+<img class="screenshot" src="img/eclipse-enable dev mode-7.png"></img><br/>
+<img class="screenshot" src="img/eclipse-enable dev mode-8.png"></img><br/>
+<img class="screenshot" src="img/eclipse-enable dev mode-9.png"></img><br/>
+<img class="screenshot" src="img/eclipse-enable dev mode-10.png"></img><br/>
+<img class="screenshot" src="img/eclipse-enable dev mode-11.png"></img><br/>
+<img class="screenshot" src="img/eclipse-enable dev mode-12.png"></img><br/>
+<img class="screenshot" src="img/eclipse-enable dev mode-13.png"></img><br/>
+<h1>After Republish Changes, Test with Postman</h1>
+<img class="screenshot" src="img/rebublish dev mode-test postman-1.png"></img><br/>
+<h1>Enable Local Debug Mode in Libery Profile</h1>
+<img class="screenshot" src="img/eclipse-debug locally-1.png"></img><br/>
+<img class="screenshot" src="img/eclipse-debug locally-2.png"></img><br/>
+<img class="screenshot" src="img/eclipse-debug locally-3.png"></img><br/>
+<img class="screenshot" src="img/eclipse-debug locally-4.png"></img><br/>
+<img class="screenshot" src="img/eclipse-debug locally-5.png"></img><br/>
+<img class="screenshot" src="img/eclipse-debug locally-6.png"></img><br/>
+<img class="screenshot" src="img/eclipse-debug locally-7.png"></img><br/>
+<img class="screenshot" src="img/eclipse-debug locally-8.png"></img><br/>
+<img class="screenshot" src="img/eclipse-debug locally-9.png"></img><br/>
+<h1>Test Local Debug Session</h1>
+<img class="screenshot" src="img/test-local debug-1.png"></img><br/>
+<img class="screenshot" src="img/test-local debug-2.png"></img><br/>
+<img class="screenshot" src="img/test-local debug-3.png"></img><br/>
+<img class="screenshot" src="img/test-local debug-4.png"></img><br/>
+<h1>Enable Remote Debug Mode for Bluemix Application</h1>
+<img class="screenshot" src="img/eclipse-enable debug mode-1.png"></img><br/>
+<img class="screenshot" src="img/eclipse-enable debug mode-2.png"></img><br/>
+<img class="screenshot" src="img/eclipse-enable debug mode-3.png"></img><br/>
+<img class="screenshot" src="img/eclipse-enable debug mode-4.png"></img><br/>
+</body>
+</html>

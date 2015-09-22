@@ -1,0 +1,6 @@
+---
+applications:
+- name: javaplays-restjava-mobilestarterkit-templatecode
+  memory: 512M
+  host: sandhya-javaplays-restjava-mobilestarterkit-templatecode
+  domain: mybluemix.net
