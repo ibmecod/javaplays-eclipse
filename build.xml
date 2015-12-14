@@ -12,9 +12,9 @@
 	<property name="warname" value= "jpbackendmsktemplate.war"/>
 	<path id="classpathDir">
 		<pathelement location="bin"/>
-		<pathelement location="WebContent/WEB-INF/lib/com.ibm.ws.javaee.jaxrs.1.1_1.0.1.jar"/>
-		<pathelement location="WebContent/WEB-INF/lib/json-20090211.jar"/>
-		
+		<fileset dir="WebContent/WEB-INF/lib">
+    		<include name="*.jar"/>
+		</fileset>
 	</path>
 	<target name="init">
 		<mkdir dir="bin"/>
