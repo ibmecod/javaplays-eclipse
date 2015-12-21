@@ -1,6 +1,9 @@
 Bluemix Java Application - Basic - Working Code
 ===
 
+# One Click Deploy
+You can deploy this app to your Bluemix by simply clicking this button.
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ibmecod/javaplays-eclipse.git)
 
 
 # Privacy Notice

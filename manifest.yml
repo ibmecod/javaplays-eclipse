@@ -3,6 +3,6 @@ applications:
 - name: jp-restjava-mobilestarterkit-templatecode
   memory: 512M
   instances: 1
-  host: sandhya-javaplays-restjava-mobilestarterkit-templatecode
+  host: jp-restjava-mobilestarterkit-templatecode
   path: jpbackendmsktemplate.war
   domain: mybluemix.net
